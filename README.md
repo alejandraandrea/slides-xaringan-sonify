@@ -1,4 +1,4 @@
-# Explorando la sonidificación de datos en R con {sonify}
+# Explorando la sonidificación de datos con {sonify}
 
 <!-- badges: start -->
 <!-- badges: end -->
